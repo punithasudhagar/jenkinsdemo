@@ -1,0 +1,13 @@
+Plugin Installations:
+
+1. Ensure the following plugins are installed:
+    Navigate to File --> settings --> Plugins
+    - TestNG
+    - Create TestNG Xml
+
+2. Adding Listeners
+    Navigate to Run --> Edit Configurations --> Choose the test --> navigate to Listeners tab
+    - EmailableReporter
+    - EmailableReporter2
+    - FailedReporter
+    - TestHtmlReporter
